@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Praveen-vj-03<br>- 👀 I’m interested in stock market exchange and trading...<br>- 🌱 I’m currently learning blockchain...<br>- 📫 How to reach me https://www.linkedin.com/in/praveen-kishore-w-b645aa208 ...<br><br>[![@praveen_vj_03's Holopin board](https://holopin.me/praveen_vj_03)](https://holopin.io/@praveen_vj_03)
+- 👋 Hi, I’m @Praveen-vj-03<br>- 👀 I’m interested in software technologies and IOT...<br>- 🌱 I’m currently learning Python and Blockchain...<br>- 📫 How to reach me https://www.linkedin.com/in/praveen-kishore-w-b645aa208 ...<br><br>[![@praveen_vj_03's Holopin board](https://holopin.me/praveen_vj_03)](https://holopin.io/@praveen_vj_03)
 
 
 ## 🌐 Socials:
